@@ -109,3 +109,11 @@ cypress run [--record] [--key dashboard-key]
 
 ![](5.PNG)
 
+![](6.PNG)
+
+
+![](7.PNG)
+
+
+![](8.PNG)
+
